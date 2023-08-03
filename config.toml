@@ -14,7 +14,7 @@ pygmentscodefences  = true
 
 [[menu.main]]
     name = "Despre"
-    url  = "/about"
+    url  = "/pages/about"
     weight = 1
 [[menu.main]]
     name = "Mastodon"
