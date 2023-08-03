@@ -13,12 +13,9 @@ pygmentscodefences  = true
   disableWebFonts = false
 
 [[menu.main]]
-    name = "About"
-    url  = "https://github.com/davidhampgonsalves/hugo-black-and-light-theme"
+    name = "Despre"
+    url  = "/about"
+    weight = 1
 [[menu.main]]
-    name = "Projects"
-    url  = "https://github.com/davidhampgonsalves/hugo-black-and-light-theme"
-[[menu.main]]
-    name = "Resume"
-    url  = "https://github.com/davidhampgonsalves/hugo-black-and-light-theme"
-
+    name = "Mastodon"
+    url  = "https://fosstodon.org"
